@@ -1,6 +1,6 @@
 info:
-  description: Spring Cloud Samples
-  url: https://github.com/spring-cloud-samples
+  description: BSFT
+  url: https://github.com/Satya-BSFT/config-repo
 eureka:
   client:
     serviceUrl:
